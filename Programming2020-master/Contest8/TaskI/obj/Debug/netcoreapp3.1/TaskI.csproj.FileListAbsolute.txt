@@ -1,0 +1,13 @@
+D:\Visual\Programming2020-master\Contest8\TaskI\bin\Debug\netcoreapp3.1\TaskI.exe
+D:\Visual\Programming2020-master\Contest8\TaskI\bin\Debug\netcoreapp3.1\TaskI.deps.json
+D:\Visual\Programming2020-master\Contest8\TaskI\bin\Debug\netcoreapp3.1\TaskI.runtimeconfig.json
+D:\Visual\Programming2020-master\Contest8\TaskI\bin\Debug\netcoreapp3.1\TaskI.runtimeconfig.dev.json
+D:\Visual\Programming2020-master\Contest8\TaskI\bin\Debug\netcoreapp3.1\TaskI.dll
+D:\Visual\Programming2020-master\Contest8\TaskI\bin\Debug\netcoreapp3.1\TaskI.pdb
+D:\Visual\Programming2020-master\Contest8\TaskI\obj\Debug\netcoreapp3.1\TaskI.csprojAssemblyReference.cache
+D:\Visual\Programming2020-master\Contest8\TaskI\obj\Debug\netcoreapp3.1\TaskI.AssemblyInfoInputs.cache
+D:\Visual\Programming2020-master\Contest8\TaskI\obj\Debug\netcoreapp3.1\TaskI.AssemblyInfo.cs
+D:\Visual\Programming2020-master\Contest8\TaskI\obj\Debug\netcoreapp3.1\TaskI.csproj.CoreCompileInputs.cache
+D:\Visual\Programming2020-master\Contest8\TaskI\obj\Debug\netcoreapp3.1\TaskI.dll
+D:\Visual\Programming2020-master\Contest8\TaskI\obj\Debug\netcoreapp3.1\TaskI.pdb
+D:\Visual\Programming2020-master\Contest8\TaskI\obj\Debug\netcoreapp3.1\TaskI.genruntimeconfig.cache

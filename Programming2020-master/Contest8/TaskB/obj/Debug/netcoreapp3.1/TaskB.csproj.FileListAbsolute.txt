@@ -1,0 +1,12 @@
+D:\Visual\Programming2020-master\Contest8\TaskB\bin\Debug\netcoreapp3.1\TaskB.exe
+D:\Visual\Programming2020-master\Contest8\TaskB\bin\Debug\netcoreapp3.1\TaskB.deps.json
+D:\Visual\Programming2020-master\Contest8\TaskB\bin\Debug\netcoreapp3.1\TaskB.runtimeconfig.json
+D:\Visual\Programming2020-master\Contest8\TaskB\bin\Debug\netcoreapp3.1\TaskB.runtimeconfig.dev.json
+D:\Visual\Programming2020-master\Contest8\TaskB\bin\Debug\netcoreapp3.1\TaskB.dll
+D:\Visual\Programming2020-master\Contest8\TaskB\bin\Debug\netcoreapp3.1\TaskB.pdb
+D:\Visual\Programming2020-master\Contest8\TaskB\obj\Debug\netcoreapp3.1\TaskB.AssemblyInfoInputs.cache
+D:\Visual\Programming2020-master\Contest8\TaskB\obj\Debug\netcoreapp3.1\TaskB.AssemblyInfo.cs
+D:\Visual\Programming2020-master\Contest8\TaskB\obj\Debug\netcoreapp3.1\TaskB.csproj.CoreCompileInputs.cache
+D:\Visual\Programming2020-master\Contest8\TaskB\obj\Debug\netcoreapp3.1\TaskB.dll
+D:\Visual\Programming2020-master\Contest8\TaskB\obj\Debug\netcoreapp3.1\TaskB.pdb
+D:\Visual\Programming2020-master\Contest8\TaskB\obj\Debug\netcoreapp3.1\TaskB.genruntimeconfig.cache

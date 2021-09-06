@@ -1,0 +1,13 @@
+D:\Visual\CW1\CW1\bin\Debug\netcoreapp3.1\CW1.exe
+D:\Visual\CW1\CW1\bin\Debug\netcoreapp3.1\CW1.deps.json
+D:\Visual\CW1\CW1\bin\Debug\netcoreapp3.1\CW1.runtimeconfig.json
+D:\Visual\CW1\CW1\bin\Debug\netcoreapp3.1\CW1.runtimeconfig.dev.json
+D:\Visual\CW1\CW1\bin\Debug\netcoreapp3.1\CW1.dll
+D:\Visual\CW1\CW1\bin\Debug\netcoreapp3.1\CW1.pdb
+D:\Visual\CW1\CW1\obj\Debug\netcoreapp3.1\CW1.csprojAssemblyReference.cache
+D:\Visual\CW1\CW1\obj\Debug\netcoreapp3.1\CW1.AssemblyInfoInputs.cache
+D:\Visual\CW1\CW1\obj\Debug\netcoreapp3.1\CW1.AssemblyInfo.cs
+D:\Visual\CW1\CW1\obj\Debug\netcoreapp3.1\CW1.csproj.CoreCompileInputs.cache
+D:\Visual\CW1\CW1\obj\Debug\netcoreapp3.1\CW1.dll
+D:\Visual\CW1\CW1\obj\Debug\netcoreapp3.1\CW1.pdb
+D:\Visual\CW1\CW1\obj\Debug\netcoreapp3.1\CW1.genruntimeconfig.cache
